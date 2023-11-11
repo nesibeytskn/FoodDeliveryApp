@@ -51,4 +51,4 @@ yarn ios
 bottomtab navigation for navigate all screens and  using dummydata for all data and entegrated with axios, scrollanimated entegrated with RN-reanimated, style by stylesheet  </p>
 
 
-  ![](../fooddelivery.gif)
+  ![](./assets/images/fooddelivery.gif)
